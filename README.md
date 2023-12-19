@@ -1,2 +1,2 @@
 # superbomberman
-This superbomberman implementation was the result of a project conducted by myself during my undergraduate studies. The main goal of this project was to get hands on experience on Unity and C#.
+I created this Superbomberman game as part of my undergraduate studies to gain hands-on experience with Unity and C# programming.
